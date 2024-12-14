@@ -26,7 +26,7 @@
 
         default_layer {
             bindings = <
-&mt LGUI RBKT    &kp Q  &kp W  &kp E               &mt R LG(NUMBER_4)  &kp T        &kp Y        &kp U       &kp I                &kp O    &kp P     &mt RIGHT_GUI LEFT_BRACKET
+&mt LGUI RBKT    &kp Q  &kp W  &kp E               &mt LG(NUMBER_4) R  &kp T        &kp Y        &kp U       &kp I                &kp O    &kp P     &mt RIGHT_GUI LEFT_BRACKET
 &mt LCTRL GRAVE  &kp A  &kp S  &kp D               &kp F               &kp G        &kp H        &kp J       &kp K                &kp L    &kp SEMI  &mt RCTRL SQT
 &mt LALT MINUS   &kp Z  &kp X  &kp C               &kp V               &kp B        &kp N        &kp M       &kp COMMA            &kp DOT  &kp FSLH  &mt RALT BSLH
                                &mt LEFT_SHIFT TAB  &lt 2 SPACE         &lt LWR RET  &lt LWR ESC  &lt 2 BSPC  &mt RIGHT_SHIFT DEL
